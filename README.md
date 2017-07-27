@@ -28,7 +28,7 @@ initRender(vm)
 
 ```
 beforeCreate $data:undefined $el:undefined
-created      $data:初始化     $el:初始化
+created      $data:初始化     $el:undefined
 beforeMount  $data:初始化     $el:已挂载，但此时挂载的节点是虚拟DOM
 mounted      $data:初始化     $el:真实DOM
 ```
